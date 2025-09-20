@@ -69,4 +69,4 @@ Works best on GPU (CUDA) but will fall back to CPU if not available.
 
 📜 License
 
-This project is intended for research and demonstration purposes. Ensure compliance with Hugging Face Qwen2.5 model license and any applicable datasets used during fine-tuning.
+This project is intended for research and demonstration purposes.
